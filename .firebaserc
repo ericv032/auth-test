@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "test": "angular-app-25373",
+    "staging": "angular-app-25373",
+    "default": "angular-app-25373"
+  }
+}
